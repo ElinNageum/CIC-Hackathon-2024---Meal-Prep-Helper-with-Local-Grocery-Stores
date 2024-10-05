@@ -11,7 +11,7 @@ app.use(bodyParser.json({ limit: '10mb' }));
 app.options('*', cors()); 
 
 
-scraper.scrapeAndParse("https://flipp.com/en-ca/vancouver-bc/item/880109139-nesters-market-weekly-ad?postal_code=V6T1A1");
+scraper.getAllURLS("https://flipp.com/en-ca/vancouver-bc/flyer/6853525-no-frills-weekly-flyer-valid-thursday-october-3-wednesday-october-9?postal_code=V6T1A1");
 
 const port = process.env.PORT || 8080;
 app.listen(port, () => {
