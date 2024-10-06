@@ -13,10 +13,15 @@ async function getAllURLS(url) {
 
     if (flippLinks.length > 0) {
       for (let link of flippLinks) {
-        const linkText = await link.getText();
-        const linkHref = await link.getAttribute("href");
-        const ans = scrapeAndParse(driver,"https://flipp.com/" + linkHref);
+        const linkHref = await link.getAttribute('href');
+        const newLink = "https://flipp.com/"+ linkHref;
+        console.log(newLink);
+        if(newLink.includes("item")){
+        const ans = await scrapeAndParse(newLink);
         json.data.push(ans);
+        await new Promise(resolve => setTimeout(resolve, 1000));
+        }
+        console.log(json);
       }
     } else {
       console.log("No flipp links found.");
@@ -32,15 +37,16 @@ async function getAllURLS(url) {
   return json;
 }
 
-async function scrapeAndParse(driver, url) {
+async function scrapeAndParse(url) {
   console.log(url);
   const json = {};
+  let driver = await new Builder().forBrowser("chrome").build();
   try {
     try {
       await driver.get(url);
       const priceElement = await driver.wait(
         until.elementLocated(By.css(".item-price-info")),
-        10000
+        1000
       );
       const priceText = await priceElement.getText();
 
@@ -53,7 +59,7 @@ async function scrapeAndParse(driver, url) {
     try {
       const titleElement = await driver.wait(
         until.elementLocated(By.css('span[content-slot="title"]')),
-        10000
+        1000
       );
       const titleText = await titleElement.getText();
       json["Title"] = titleText;

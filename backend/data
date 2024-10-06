@@ -1,0 +1,198 @@
+{
+  data: [
+    {
+      Title: 'JOLLY RANCHERS OR TWIZZLERS 170-198G, OR DARE REAL FRUIT CANDY 180G'
+    },
+    { Title: 'NO NAME FLOUR, 2.5KG' },
+    { Title: 'SWANSON MEAT PIES, 200G' },
+    { Title: 'DOM SMOKED STEELHEAD SALMON, 50g' },
+    { Price: '499LB', Title: 'NEW ZEALAND SHORT CUT LAMB LEG' },
+    { Price: '900', Title: 'LEAN GROUND BEEF, 900 g' },
+    {
+      Price: '499',
+      Title: "BEETS, RUTABAGAS or FARMER'S MARKET™ CARROTS or YELLOW ONIONS, 10 LB BAG"
+    },
+    { Price: '447', Title: 'BOURSIN CHEESE, 150/220 g' },
+    {
+      Price: '279',
+      Title: 'MCCAIN SUPER FRIES or SPECIALTY FRIES 454-800 g or GREEN GIANT FROZEN VEGETABLES 400-750 g'
+    },
+    {
+      Price: '249',
+      Title: 'BLACK DIAMOND SLICES PROCESSED CHEESE PRODUCT, 410 g'
+    },
+    {
+      Price: '1199',
+      Title: "PC® ROAST AND GROUND COFFEE, 800-930 g or PODS, 30' s"
+    },
+    {
+      Price: 'ONLY1299',
+      Title: 'ROGERS GRANULATED WHITE SUGAR, 10 kg'
+    },
+    {
+      Price: '200',
+      Title: 'DARE CRACKERS 100-225 g or DRY BREADS 120-200 g'
+    },
+    {
+      Price: '899',
+      Title: "MARS FUN SIZE CHOCOLATE, 65's or SKITTLES MIXED CANDY, 70's"
+    },
+    { Price: '88', Title: 'CARL BUDDIG SLICED MEAT, 55 g' },
+    {
+      Price: 'ONLY299',
+      Title: "EARTH'S OWN NON-DAIRY BEVERAGE, 1.89 L"
+    },
+    { Price: '1099', Title: 'ELEPHANT BRAND BASMATI RICE, 4 kg' },
+    { Title: 'SWISS DESIGN COOKWARE!' },
+    { Title: '' },
+    { Price: '199LB', Title: 'ROMA TOMATOES' },
+    { Price: '249LB', Title: 'BROCCOLI CROWNS' },
+    { Price: '199', Title: 'PIE PUMPKINS' },
+    {
+      Price: '99LB',
+      Title: 'ACORN, BUTTERCUP, BUTTERNUT or SPAGHETTI SQUASH'
+    },
+    {
+      Price: '399',
+      Title: 'BLACKBERRIES, 6 OZ CLAMSHELL OR RASPBERRIES'
+    },
+    {
+      Price: '499',
+      Title: "AVOCADOS, PKG OF 5 OR 6 or FARMER'S MARKET™ SWEET PEPPERS, PKG OF 4"
+    },
+    {
+      Price: '700',
+      Title: 'NO NAME® NATURALLY IMPERFECT™ RED or RUSSET POTATOES, 20 LB BAG'
+    },
+    { Price: '249LB', Title: 'BRUSSELS SPROUTS' },
+    { Price: '399', Title: 'PINEAPPLE' },
+    {
+      Price: '399',
+      Title: 'PC® LITTLE GEMS™ RED, YELLOW or MIXED MINI POTATOES, 680 G BAG'
+    },
+    { Price: '149LB', Title: 'HAMI MELON' },
+    { Price: '299LB', Title: 'BLACK PLUMS or YELLOW PEACHES' },
+    {
+      Price: '699',
+      Title: "FARMER'S MARKET™ MCINTOSH or SPARTAN APPLES, 4 LB BAG"
+    },
+    { Price: '699', Title: "FARMER'S MARKET™ MANDARINS, 4 LB BAG" },
+    { Price: '599', Title: "FARMER'S MARKET™ LEMONS, 3 LB BAG" },
+    { Price: '599', Title: 'PC® AXIANY or VARIETY TOMATOES, 681g' },
+    { Price: '2200each', Title: 'TURKEY, 5-7 kg' },
+    { Price: '2900each', Title: 'TURKEY, 7-9 kg' },
+    { Price: '3400each', Title: 'TURKEY, 9-11 kg' },
+    { Price: '1700', Title: 'TURKEY, 3-5 kg' },
+    { Price: '399LB', Title: 'PORK HALF LOIN' },
+    {
+      Price: '599',
+      Title: 'PC® FREE FROM® SAUSAGE or ULTIMATE MILD CHICKEN SAUSAGE, 375/500 g'
+    },
+    { Price: '1249LB', Title: 'BEEF BRAISING RIB' },
+    {
+      Price: '299',
+      Title: 'YELLOWFIN TUNA STEAKS, 92 g, GO SHRIMP RAW, 51/70 per lb, 160 g or SEAQUEST® FLAVOURED ALASKA POLLOCK ready to eat, 227 g'
+    },
+    {
+      Price: '799',
+      Title: 'HIGH LINER WILD PACIFIC PINK SALMON FILLETS, 400 g'
+    },
+    {
+      Price: '1499',
+      Title: 'NO NAME® BLACK FOREST or HONEY HAM, 1.3 kg'
+    },
+    {
+      Title: "PC® SALAMI or SALAMI WITH PROSCIUTTO 150 g or ZIGGY'S® KOLBASSA, 375 g"
+    },
+    {
+      Price: '700',
+      Title: "BARI RICOTTA CHEESE, 500 g or ZIGGY'S® FETA CHEESE, 400 g"
+    },
+    {
+      Price: '999',
+      Title: 'JANES PUB STYLE CHICKEN STRIPS, NUGGETS or BURGERS, 700 g'
+    },
+    { Price: '249', Title: "WONDER BREAD, 570 g or BUNS, 12's" },
+    {
+      Price: '349',
+      Title: "PC® CINNAMON RAISIN BREAD, 675 g or PC® HOT CROSS BUNS, 8's"
+    },
+    { Price: '450', Title: "FARMER'S MARKET™ MINI DOUGHNUTS, 600 g" },
+    { Title: 'PC® CRANBERRY & BRIE PUFF PASTRY BITES, 288 g' },
+    { Price: '799', Title: 'PC® APPETIZERS, 225-500 g' },
+    { Price: '999', Title: 'NO NAME® EGG ROLLS, 1.25 kg' },
+    { Price: '1299', Title: "PC® HORS D'OEUVRES, 720 g" },
+    { Price: '249', Title: 'CHEEMO PEROGIES, 745-907 g' },
+    { Price: '199', Title: "NO NAME® DINNER ROLLS, 12's" },
+    { Price: '129', Title: 'GREEN GIANT VEGETABLES, 341/398 mL' },
+    { Price: '599', Title: 'LACTANTIA BUTTER, 454 g' },
+    { Price: '199', Title: 'PILLSBURY REFRIGERATED DOUGH, 200-227 g' },
+    { Price: '499', Title: 'BREYERS CREAMERY STYLE ICE CREAM, 1.66 L' },
+    {
+      Price: '579',
+      Title: 'CRACKER BARREL CHEESE SHREDS, 320 g or BLACK DIAMOND CHEESTRINGS or SNACKS, 252/336 g'
+    },
+    { Price: '166', Title: 'CARNATION EVAPORATED MILK, 354 mL' },
+    { Price: '349', Title: 'GAY LEA WHIPPED TOPPING, 225 g' },
+    {
+      Price: '499',
+      Title: 'PC® INSTANT COFFEE, 80/100 g or CARNATION HOT CHOCOLATE, 400/450 g'
+    },
+    {
+      Price: '100',
+      Title: 'CLUB HOUSE GRAVY or SEASONING MIX, 20-47 g'
+    },
+    { Price: '129', Title: 'DOLE PINEAPPLE, 398 mL' },
+    { Price: '159', Title: 'OCEAN SPRAY CRANBERRY SAUCE, 348 mL' },
+    {
+      Price: '179',
+      Title: 'PC® 100% JUICE, 1 L, OASIS JUICE, DEL MONTE NECTAR or ARIZONA ICED TEA, 960 mL'
+    },
+    { Price: '169', Title: 'COCA-COLA or PEPSI SOFT DRINKS, 2 L' },
+    { Price: '399', Title: 'PREMIUM PLUS CRACKERS, 450-500 g' },
+    { Price: '399', Title: 'TOSTITOS TORTILLA CHIPS, 205-295 g' },
+    { Title: '' },
+    {
+      Price: '449',
+      Title: 'BECEL 427/454 g or IMPERIAL 637 g MARGARINE'
+    },
+    {
+      Price: '449',
+      Title: 'INTERNATIONAL DELIGHT COFFEE WHITENER, 946 mL or COLD FOAM, 396 g'
+    },
+    { Price: '349', Title: 'TENDERFLAKE PIE SHELL, 255-350 g' },
+    { Price: 'ONLY799', Title: 'PC® BLACK LABEL PIZZA, 370-420 g' },
+    { Price: '179', Title: 'KNORR SIDEKICKS, 120-162 g' },
+    {
+      Price: '300',
+      Title: 'MASTRO CAPOCOLLO MILD 125 g, SAN DANIELE MORTADELLA 175 g or TRE STELLE GRATED PARMESAN or ROMANO CHEESE 80 g'
+    },
+    {
+      Price: '699',
+      Title: 'TAST! EZ, 400 g or MCCAIN PIZZA POCKETS, 600 g'
+    },
+    { Price: '1299', Title: 'PC® LASAGNAS or MAC & CHEESE, 2/2.27 kg' },
+    { Price: '249', Title: 'DARE COOKIES, 168-360 g' },
+    { Price: '279', Title: 'CHRISTIE COOKIES, 224-303 g' },
+    { Price: '279', Title: 'CHRISTIE CRACKERS, 175-386 g' },
+    { Price: '299', Title: 'PILLSBURY REFRIGERATED DOUGH, 318-468 g' },
+    {
+      Price: '149',
+      Title: 'GLAD CLING WRAP, 30 m, TITAN FOIL or WAX PAPER, 25 ft'
+    },
+    { Price: '300', Title: 'KRAFT SALAD DRESSING, 425 mL' },
+    { Price: '399', Title: 'KUHNE SAUERKRAUT, 796 mL' },
+    {
+      Price: '499',
+      Title: 'CLUB HOUSE BLENDS or LA GRILLE SEASONING,111-248 g'
+    },
+    { Price: '499', Title: "CHAPMAN'S SUPER NOVELTIES, 8-20's" },
+    { Price: '179', Title: "MICHELINA'S ENTRÉES, 156-284 g" },
+    {
+      Price: '349',
+      Title: 'MINUTE MAID ZERO SUGAR or FIVE ALIVE BEVERAGES, 1.54/1.75 L'
+    },
+    { Price: '299', Title: "KELLOGG'S SPECIAL K or KASHI, 165-200 g" },
+    { Price: '600', Title: 'PC® CHEESE SLICES' }
+  ]
+}
