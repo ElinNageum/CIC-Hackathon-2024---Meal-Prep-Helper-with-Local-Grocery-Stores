@@ -4,7 +4,7 @@
 
 ## About The Project
 
-**Save-on-Eats** is a full-stack website application that uses generative AI and AWS Services to reduce food and energy waste and grocery bills.
+**Save-on-Eats** is a full-stack website application that solves the day-to-day problems of individuals -- preparing meal -- by using generative AI and AWS Services to reduce food and energy waste and grocery bills.
 
 ### Problem 
 
