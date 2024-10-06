@@ -25,7 +25,7 @@ Features of our app:
 - Reduces food waste by increasing amount of discounted items sold and by limiting amount of extra groceries that ends up unused at home
 - Reduces grocery bills for the user
 
-### <Context of Sustainability>
+### Context of Sustainability
 - Reducing Food Waste (Environment)
 - Lowering Carbon Footprint (Viable)
 - Encouraging Cost-Effective, Eco-Friendly Choices (Economic)
