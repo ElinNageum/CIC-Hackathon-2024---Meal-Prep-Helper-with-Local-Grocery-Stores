@@ -4,7 +4,7 @@
 
 ## About The Project
 
-**Save-on-Eats** is a full stack application that uses generative AI and AWS Services to reduce food waste, energy waste and grocery bills.
+**Save-on-Eats** is a full-stack website application that uses generative AI and AWS Services to reduce food and energy waste and grocery bills.
 
 ### Problem 
 
@@ -25,6 +25,14 @@ Features of our app:
 - Reduces food waste by increasing amount of discounted items sold and by limiting amount of extra groceries that ends up unused at home
 - Reduces grocery bills for the user
 
+<Context of Sustainability>
+- Reducing Food Waste (Environment)
+- Lowering Carbon Footprint (Viable)
+- Encouraging Cost-Effective, Eco-Friendly Choices (Economic)
+- Optimized Meal Planning for Resource Efficiency (Environment)
+- Supporting Local Businesses (Equitable)
+Reference Sustainability Chart: https://www.conceptdraw.com/examples/sustainable-development-diagram
+
 ### Built With
 
 Tech Stack:
@@ -35,7 +43,7 @@ Tech Stack:
 - Express
 - Selenium
 
-AWS Services:
+AWS Cloud Services:
 - Amplify
 - API Gateway
 - Lambda
