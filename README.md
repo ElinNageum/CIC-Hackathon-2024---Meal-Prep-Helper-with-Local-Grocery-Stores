@@ -31,6 +31,7 @@ Features of our app:
 - Encouraging Cost-Effective, Eco-Friendly Choices (Economic)
 - Optimized Meal Planning for Resource Efficiency (Environment)
 - Supporting Local Businesses (Equitable)
+
 Reference Sustainability Chart: https://www.conceptdraw.com/examples/sustainable-development-diagram
 
 ### Built With
